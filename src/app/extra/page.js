@@ -22,6 +22,14 @@ const data = [
     ]
   },
   {
+    "position": "Campus Mantri",
+    "company": "GeeksforGeeks",
+    "duration": "Jun 2021 - Apr 2022 ",
+    "responsibilities": [
+      "Campus Ambassador at Geeks For Geeks."
+    ]
+  },
+  {
     "position": "Campus Ambassador",
     "company": "Dell Technologies",
     "duration": "Oct 2021 - Apr 2022 ",
@@ -220,15 +228,6 @@ const data = [
     "oldduration1": "Jul 2021 - May 2022 ",
     "oldresponsibilities1": [
       "Technical Team Member of Eduhub Community."
-    ]
-  },
- 
-    {
-    "position": "Campus Mantri",
-    "company": "GeeksforGeeks",
-    "duration": "Jun 2021 - Apr 2022 ",
-    "responsibilities": [
-      "Campus Ambassador at Geeks For Geeks."
     ]
   },
 
