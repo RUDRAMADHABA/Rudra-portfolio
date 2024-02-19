@@ -53,16 +53,7 @@ const Cloud = () => {
           <FaNodeJs fontSize={25} />
           <FaFigma fontSize={25} />
         </>
-      ),detail:" Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus assumenda nesciunt nobis quos, voluptate, laborum nulla consequuntur doloribus a explicabo reiciendis culpa, ?"},
-      { heading: "Super kid", name: "Super kid", redirect: <GoArrowUpRight  fontSize={35}/>, img: `/serviceposter.jpg`, link:"https://superkid.co.in/",tech: (
-        <>
-          <TbBrandNextjs fontSize={25} />
-          <FaNodeJs fontSize={25} />
-          <FaFigma fontSize={25} />
-        </>
-      ), detail:" Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus assumenda nesciunt nobis quos, voluptate, laborum nulla consequuntur doloribus a explicabo reiciendis culpa, ?"},
-     
-     
+      ),detail:" Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus assumenda nesciunt nobis quos, voluptate, laborum nulla consequuntur doloribus a explicabo reiciendis culpa, ?"}
     ];
 
     
