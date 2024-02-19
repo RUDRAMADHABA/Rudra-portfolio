@@ -8,8 +8,10 @@ import { GoArrowUpRight } from "react-icons/go";
 import {AiOutlineLink ,AiOutlineDownload} from 'react-icons/ai'
 import { TbBrandNextjs } from "react-icons/tb";
 import { FaNodeJs } from "react-icons/fa";
-import { FaFigma } from "react-icons/fa";
 import { RiReactjsFill } from "react-icons/ri";
+import { SiSolidity } from "react-icons/si";
+import { FaAws } from "react-icons/fa";
+import { SiGooglecloud } from "react-icons/si";
  
 const Cloud = () => {
     const alldata = [
@@ -17,32 +19,34 @@ const Cloud = () => {
         <>
           <TbBrandNextjs fontSize={25} />
           <FaNodeJs fontSize={25} />
+          <FaAws fontSize={25} />
         </>
-      ),detail:" Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus assumenda nesciunt nobis quos, voluptate, laborum nulla consequuntur doloribus a explicabo reiciendis culpa, ?"},
+      ),detail:"Developed GraduateUs, an online web application which helps college students to connect and chat with their Alumnis and get free aceess to apply to all new optimised Jobs and Internships Portal, Attendance tracker, etc."},
       { heading: "0xgasless", name: "0xgasless", redirect: <GoArrowUpRight  fontSize={35}/>, img: `/ox.png` , link:"https://0xgasless.vercel.app/",tech: (
         <>
           <RiReactjsFill fontSize={25} />
-          <FaNodeJs fontSize={25} />
+          <SiSolidity fontSize={25} />
         </>
-      ),detail:" Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus assumenda nesciunt nobis quos, voluptate, laborum nulla consequuntur doloribus a explicabo reiciendis culpa, ?"},
+      ),detail:"It is a decentralized, fee-free crypto trading technology, enabling direct exchange through smart contracts. It ensures security and resistance to hacking attempts."},
       { heading: "DevFest Bhubaneswar 2023", name: "DevFest Bhubaneswar 2023", redirect: <GoArrowUpRight  fontSize={35}/>, img: `/dev.png` ,link:"https://devfest.gdgbbsr.in/" ,tech: (
         <>
           <RiReactjsFill fontSize={25} />
           <FaNodeJs fontSize={25} />
+          <SiGooglecloud fontSize={25} />
         </>
-      ),detail:" Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus assumenda nesciunt nobis quos, voluptate, laborum nulla consequuntur doloribus a explicabo reiciendis culpa, ?"},
+      ),detail:"The Devfest 2023 project, a comprehensive platform designed for a hassle-free event experience. It's a User-friendly website: Create accounts, choose your Devfest pass, and pay securely through Razorpay. Personalized e-tickets where users can get their ticket with attached photo which had a QR code instantly delivered to their email."},
       { heading: "FIRSTCARE", name: "FIRSTCARE", redirect: <GoArrowUpRight fontSize={35} />, img: `/first.png`, link:"https://firstcareshop.com/",tech: (
         <>
           <TbBrandNextjs fontSize={25} />
           <FaNodeJs fontSize={25} />
         </>
-      ),detail:" Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus assumenda nesciunt nobis quos, voluptate, laborum nulla consequuntur doloribus a explicabo reiciendis culpa, ?" },
+      ),detail:"It was developed for a B2C and B2B use for medicine shops which keeps all the data of their consumers including CRUD operations" },
       { heading: "Amlajan", name: "Amlajan", redirect: <GoArrowUpRight  fontSize={35}/>, img: `/jolly.png`, link:"https://jolly-fermi-aa4a4f.netlify.app/" ,tech: (
         <>
           <RiReactjsFill fontSize={25} />
           <FaNodeJs fontSize={25} />
         </>
-      ),detail:" Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus assumenda nesciunt nobis quos, voluptate, laborum nulla consequuntur doloribus a explicabo reiciendis culpa, ?"},
+      ),detail:"Worked For the alpha version of the project and was in the part of the development team and contributed here as an open source project in a team. The project aims to help people in need of O2 supply in the time of Covid-19 crisis"},
       { heading: "Pink Surfing", name: "Pink Surfing", redirect: <GoArrowUpRight  fontSize={35}/>, img: `/pink.png` , link:"https://pink-surfing-r2i4.vercel.app/",tech: (
         <>
           <RiReactjsFill fontSize={25} />
