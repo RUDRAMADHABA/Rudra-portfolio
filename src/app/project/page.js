@@ -9,6 +9,7 @@ import {AiOutlineLink ,AiOutlineDownload} from 'react-icons/ai'
 import { TbBrandNextjs } from "react-icons/tb";
 import { FaNodeJs } from "react-icons/fa";
 import { FaFigma } from "react-icons/fa";
+import { RiReactjsFill } from "react-icons/ri";
  
 const Cloud = () => {
     const alldata = [
@@ -16,44 +17,38 @@ const Cloud = () => {
         <>
           <TbBrandNextjs fontSize={25} />
           <FaNodeJs fontSize={25} />
-          <FaFigma fontSize={25} />
         </>
       ),detail:" Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus assumenda nesciunt nobis quos, voluptate, laborum nulla consequuntur doloribus a explicabo reiciendis culpa, ?"},
       { heading: "0xgasless", name: "0xgasless", redirect: <GoArrowUpRight  fontSize={35}/>, img: `/ox.png` , link:"https://0xgasless.vercel.app/",tech: (
         <>
-          <TbBrandNextjs fontSize={25} />
+          <RiReactjsFill fontSize={25} />
           <FaNodeJs fontSize={25} />
-          <FaFigma fontSize={25} />
         </>
       ),detail:" Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus assumenda nesciunt nobis quos, voluptate, laborum nulla consequuntur doloribus a explicabo reiciendis culpa, ?"},
-      { heading: "DevFest Bhubaneswar 2023", name: "Crypto App design", redirect: <GoArrowUpRight  fontSize={35}/>, img: `/dev.png` ,link:"https://devfest.gdgbbsr.in/" ,tech: (
+      { heading: "DevFest Bhubaneswar 2023", name: "DevFest Bhubaneswar 2023", redirect: <GoArrowUpRight  fontSize={35}/>, img: `/dev.png` ,link:"https://devfest.gdgbbsr.in/" ,tech: (
         <>
-          <TbBrandNextjs fontSize={25} />
+          <RiReactjsFill fontSize={25} />
           <FaNodeJs fontSize={25} />
-          <FaFigma fontSize={25} />
         </>
       ),detail:" Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus assumenda nesciunt nobis quos, voluptate, laborum nulla consequuntur doloribus a explicabo reiciendis culpa, ?"},
       { heading: "FIRSTCARE", name: "FIRSTCARE", redirect: <GoArrowUpRight fontSize={35} />, img: `/first.png`, link:"https://firstcareshop.com/",tech: (
         <>
           <TbBrandNextjs fontSize={25} />
           <FaNodeJs fontSize={25} />
-          <FaFigma fontSize={25} />
         </>
       ),detail:" Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus assumenda nesciunt nobis quos, voluptate, laborum nulla consequuntur doloribus a explicabo reiciendis culpa, ?" },
-      { heading: "Amlajan", name: "Crypto App design", redirect: <GoArrowUpRight  fontSize={35}/>, img: `/jolly.png`, link:"https://jolly-fermi-aa4a4f.netlify.app/" ,tech: (
+      { heading: "Amlajan", name: "Amlajan", redirect: <GoArrowUpRight  fontSize={35}/>, img: `/jolly.png`, link:"https://jolly-fermi-aa4a4f.netlify.app/" ,tech: (
         <>
-          <TbBrandNextjs fontSize={25} />
+          <RiReactjsFill fontSize={25} />
           <FaNodeJs fontSize={25} />
-          <FaFigma fontSize={25} />
         </>
       ),detail:" Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus assumenda nesciunt nobis quos, voluptate, laborum nulla consequuntur doloribus a explicabo reiciendis culpa, ?"},
       { heading: "Pink Surfing", name: "Pink Surfing", redirect: <GoArrowUpRight  fontSize={35}/>, img: `/pink.png` , link:"https://pink-surfing-r2i4.vercel.app/",tech: (
         <>
-          <TbBrandNextjs fontSize={25} />
+          <RiReactjsFill fontSize={25} />
           <FaNodeJs fontSize={25} />
-          <FaFigma fontSize={25} />
         </>
-      ),detail:" Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus assumenda nesciunt nobis quos, voluptate, laborum nulla consequuntur doloribus a explicabo reiciendis culpa, ?"}
+      ),detail:"Category listing and ecommerce shopping site developed according to a client's demand."}
     ];
 
     
