@@ -35,6 +35,12 @@ const Cloud = () => {
           <SiGooglecloud fontSize={25} />
         </>
       ),detail:"The Devfest 2023 project, a comprehensive platform designed for a hassle-free event experience. It's a User-friendly website: Create accounts, choose your Devfest pass, and pay securely through Razorpay. Personalized e-tickets where users can get their ticket with attached photo which had a QR code instantly delivered to their email."},
+      { heading: "Ecommerce Website", name: "Ecommerce Website", redirect: <GoArrowUpRight fontSize={35} />, img: `/first.png`, link:"https://ecommerce-fwxb.vercel.app/",tech: (
+        <>
+          <RiReactjsFill fontSize={25} />
+          <FaNodeJs fontSize={25} />
+        </>
+      ),detail:"It was developed for a ecommerce client, where the project was full stack with each and every features similar to any branded ecommerce websites in market with all payment gateway, coupon discounts, supplychain etc with admin and vendor pages" },
       { heading: "FirstCare", name: "FirstCare", redirect: <GoArrowUpRight fontSize={35} />, img: `/first.png`, link:"https://firstcareshop.com/",tech: (
         <>
           <TbBrandNextjs fontSize={25} />
