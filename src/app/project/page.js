@@ -64,7 +64,7 @@ const Cloud = () => {
           <RiReactjsFill fontSize={25} />
           <FaNodeJs fontSize={25} />
         </>
-      ),detail:"Category listing and ecommerce shopping site developed according to a client's demand."}
+      ),detail:"Cache Digitech official landing page with all features"}
     ];
 
     
