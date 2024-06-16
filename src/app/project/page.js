@@ -59,7 +59,7 @@ const Cloud = () => {
           <FaNodeJs fontSize={25} />
         </>
       ),detail:"Category listing and ecommerce shopping site developed according to a client's demand."}
-      { heading: "Cache Digitech Official Website", name: "Cache Digitech Official Website", redirect: <GoArrowUpRight  fontSize={35}/>, img: `/pink.png` , link:"https://www.cachedigitech.com/",tech: (
+      { heading: "Cache Digitech Official Website", name: "Cache Digitech Official Website", redirect: <GoArrowUpRight  fontSize={35}/>, img: `/cache.png` , link:"https://www.cachedigitech.com/",tech: (
         <>
           <RiReactjsFill fontSize={25} />
           <FaNodeJs fontSize={25} />
