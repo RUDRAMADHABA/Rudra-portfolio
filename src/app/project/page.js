@@ -35,7 +35,7 @@ const Cloud = () => {
           <SiGooglecloud fontSize={25} />
         </>
       ),detail:"The Devfest 2023 project, a comprehensive platform designed for a hassle-free event experience. It's a User-friendly website: Create accounts, choose your Devfest pass, and pay securely through Razorpay. Personalized e-tickets where users can get their ticket with attached photo which had a QR code instantly delivered to their email."},
-      { heading: "Ecommerce Website", name: "Ecommerce Website", redirect: <GoArrowUpRight fontSize={35} />, img: `/first.png`, link:"https://ecommerce-fwxb.vercel.app/",tech: (
+      { heading: "Ecommerce Website", name: "Ecommerce Website", redirect: <GoArrowUpRight fontSize={35} />, img: `/ecom.png`, link:"https://ecommerce-fwxb.vercel.app/",tech: (
         <>
           <RiReactjsFill fontSize={25} />
           <FaNodeJs fontSize={25} />
@@ -54,6 +54,12 @@ const Cloud = () => {
         </>
       ),detail:"Worked For the alpha version of the project and was in the part of the development team and contributed here as an open source project in a team. The project aims to help people in need of O2 supply in the time of Covid-19 crisis"},
       { heading: "Pink Surfing", name: "Pink Surfing", redirect: <GoArrowUpRight  fontSize={35}/>, img: `/pink.png` , link:"https://pink-surfing-r2i4.vercel.app/",tech: (
+        <>
+          <RiReactjsFill fontSize={25} />
+          <FaNodeJs fontSize={25} />
+        </>
+      ),detail:"Category listing and ecommerce shopping site developed according to a client's demand."}
+      { heading: "Cache Digitech Official Website", name: "Cache Digitech Official Website", redirect: <GoArrowUpRight  fontSize={35}/>, img: `/pink.png` , link:"https://www.cachedigitech.com/",tech: (
         <>
           <RiReactjsFill fontSize={25} />
           <FaNodeJs fontSize={25} />
