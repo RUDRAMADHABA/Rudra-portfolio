@@ -5,15 +5,24 @@ import {motion} from 'framer-motion'
 import { Suspense } from "react";
 const Experience = () => {
 
-    
-     
    const workdata =  [
+        {
+         "position": "Software Engineer",
+         "company": "iServeU",
+         "duration": "June 2024 - Present",
+         "responsibilities": [
+          "Working in the API Gateway team(DevOps) of iServeU.",
+          "Working on different aspects of DevOps like observability and security.",
+          "Using Google cloud and Kubernetes for deployment and other functionalities."
+          ]
+        },
+
         {
           "position": "Software Engineer Intern",
           "company": "iServeU",
-          "duration": "Dec 2023 - Present",
+          "duration": "Dec 2023 - June 2024",
           "responsibilities": [
-            "Working in the Backend and DevOps Team of IserveU Products.",
+            "Working in the Backend and DevOps Team of IserveU",
             "Developing APIs and working in API Gateway team of DevOps.",
             "Tech Stack: Nodejs, Express.js, Go-lang, Docker, Kubernetes, PostgreSQL, Cassandra, GCP"
           ]
