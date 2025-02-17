@@ -9,7 +9,7 @@ const Experience = () => {
         {
          "position": "Software Engineer",
          "company": "iServeU",
-         "duration": "June 2024 - Present",
+         "duration": "June 2024 - Feb 2025",
          "responsibilities": [
           "Working in the API Gateway team(DevOps) of iServeU.",
           "Working on different aspects of DevOps like observability and security.",
