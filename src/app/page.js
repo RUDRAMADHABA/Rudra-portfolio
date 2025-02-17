@@ -99,7 +99,7 @@ const link4 = ()=>{
       <motion.div variants={containerVariants} initial="hidden" animate="visible">
       <motion.div variants={typographyVariants}>
         <Typography color='#d2d2d2' fontWeight='400' fontSize={{lg:"18px",md:"17px" , sm:"15px" , xs:"14px"}}width={{md:"85%" , xs:"100%"}}>
-        Hey everyone, I'm Rudramadhaba Mishra, I am currently working as a SDE at iServeU. i have done my BTech majoring in Electronics and Telecommunication Engineering. I've interned as an SDE at multiple startups before, have actively contributed to open source and web development projects. I served as a Technical Team Member for Microsoft Learn Student Ambassador-SANINS and Idea Innovation Cell. As a founding member of GeeksforGeeks-Vssut chapter, I was a GFG campus ambassador for 2021-22. I am Looking for software developer opportunities to join !
+        Hey everyone, I'm Rudramadhaba Mishra, I am an Ex-SDE at iServeU. I have done my BTech majoring in Electronics and Telecommunication Engineering. I've interned as an SDE at multiple startups before, have actively contributed to open source and web development projects. I served as a Technical Team Member for Microsoft Learn Student Ambassador-SANINS and Idea Innovation Cell. As a founding member of GeeksforGeeks-Vssut chapter, I was a GFG campus ambassador for 2021-22. I am Looking for software developer opportunities to join !
         </Typography>
       </motion.div>
 </motion.div>
