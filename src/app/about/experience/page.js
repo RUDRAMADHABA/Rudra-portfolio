@@ -11,9 +11,9 @@ const Experience = () => {
          "company": "iServeU",
          "duration": "June 2024 - Feb 2025",
          "responsibilities": [
-          "Working in the API Gateway team(DevOps) of iServeU.",
-          "Working on different aspects of DevOps like observability and security.",
-          "Using Google cloud and Kubernetes for deployment and other functionalities."
+          "Worked in the API Gateway team(DevOps) of iServeU.",
+          "Worked on different aspects of DevOps like observability and security.",
+          "Used Google cloud and Kubernetes for deployment and other functionalities."
           ]
         },
 
@@ -22,8 +22,8 @@ const Experience = () => {
           "company": "iServeU",
           "duration": "Dec 2023 - June 2024",
           "responsibilities": [
-            "Working in the Backend and DevOps Team of IserveU",
-            "Developing APIs and working in API Gateway team of DevOps.",
+            "Worked in the Backend and DevOps Team of IserveU",
+            "Developed APIs and working in API Gateway team of DevOps.",
             "Tech Stack: Nodejs, Express.js, Go-lang, Docker, Kubernetes, PostgreSQL, Cassandra, GCP"
           ]
         },
