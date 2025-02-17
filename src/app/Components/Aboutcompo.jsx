@@ -13,7 +13,7 @@ const Aboutcompo = () => {
     { name: "MIT", position: "Frontend Developer", year: "2017-2019" }
   ];
   const workdata = [
-    { name: "iServeU", position: "Software Engineer", year: "June 2024 - Present" },
+    { name: "iServeU", position: "Software Engineer", year: "June 2024 - Feb 2025" },
     { name: "iServeU", position: "Software Engineer Intern", year: "Dec 2023 - June 2024" },
     { name: "Param.ai", position: "Software Development Engineer Intern", year: "Nov 2023 - Dec 2023" },
     { name: "IG Drones", position: "Software Development Engineer Intern", year: "April 2023 - July 2023" }
