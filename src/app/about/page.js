@@ -109,7 +109,7 @@ const About = () => {
                     width={{sm:"80%" , xs:"100%"}}
                   >
                   
-                  Hey everyone, I'm Rudramadhaba Mishra, I am an Ex-SDE at iServeU. I have done my BTech majoring in Electronics and Telecommunication Engineering. I've interned as an SDE at multiple startups before, have actively contributed to open source and web development projects. I served as a Technical Team Member for Microsoft Learn Student Ambassador-SANINS and Idea Innovation Cell. As a founding member of GeeksforGeeks-Vssut chapter, I was a GFG campus ambassador for 2021-22.
+                  Hey everyone, I'm Rudramadhaba Mishra, I am a Cloud Engineer at Amazon. I have done my BTech majoring in Electronics and Telecommunication Engineering. I've served as an SDE-DevOps at iServeU for 1 year, have actively contributed to open source and web development projects. I served as a Technical Team Member for Microsoft Learn Student Ambassador-SANINS and Idea Innovation Cell. As a founding member of GeeksforGeeks-Vssut chapter, I was a GFG campus ambassador for 2021-22.
                   </Typography>
                 </motion.div>
               )}
