@@ -7,6 +7,14 @@ const Experience = () => {
 
    const workdata =  [
         {
+         "position": "Cloud Engineer",
+         "company": "Amazon",
+         "duration": "March 2025 - Present",
+         "responsibilities": [
+          "Working in AWS team."
+          ]
+        },
+        {
          "position": "Software Engineer",
          "company": "iServeU",
          "duration": "June 2024 - Feb 2025",
