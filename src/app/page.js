@@ -114,7 +114,7 @@ const link4 = ()=>{
         </motion.div>
         <motion.div variants={containerVariants} initial="hidden" animate="visible">
         <motion.div variants={typographyVariants}>
-        <a href='/Resume.pdf' download> <Button variant="outlined" sx={{ border: "1px solid #ff8a56 !important", borderRadius: "5px", textTransform: "none", color: "#fff" }}>View Resume</Button></a>
+        <a href='/Rudraresume.pdf' download> <Button variant="outlined" sx={{ border: "1px solid #ff8a56 !important", borderRadius: "5px", textTransform: "none", color: "#fff" }}>View Resume</Button></a>
         </motion.div>
         </motion.div>
       </Stack>
