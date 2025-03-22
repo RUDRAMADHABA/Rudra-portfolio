@@ -149,7 +149,7 @@ const About = () => {
                           fontSize='15px'
                           width="80%"
                         >
-                          Years Of Experience in Development
+                          Years Of Experience in Development and cloud
                         </Typography>
                       </Stack>
                       <Divider orientation="vertical" sx={{ height: "6em", borderColor: "#312f2e" , position:"relative" , right:{sm:"0" , xs:"1em"} }} />
