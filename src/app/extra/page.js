@@ -6,6 +6,37 @@ const Extra = () => {
 
 const data = [
   {
+    "position": "Core Tech Member",
+    "oldposition": "Community Member",
+    "company": "GDG Cloud Kolkata",
+    "duration": "April 2024 - Present",
+    "oldduration": "April 2022 - April 2024",
+    "responsibilities": [
+      "Working as a team member in the Web Team and developed website for GCCD - 2024 Kolkata and official website for GDG Cloud Kolkata.",
+      "Full Stack Web Developer for GDG Cloud Kolkata events."
+    ],
+    "oldresponsibilities": [
+      "Active community member.",
+      "Participated in past GDG Cloud Kolkata events."
+    ]
+  },
+  {
+    "position": "Core Techno-Management Member",
+    "oldposition": "Community Member",
+    "company": "GDG Cloud Bhubaneswar",
+    "duration": "Jul 2023 - Present",
+    "oldduration": "Nov 2021 - Jul 2023",
+    "responsibilities": [
+      "Developed GDG BBSR Website and Devfest 2023 website.",
+      "Serving as a Core Management Member.",
+      "Full Stack Web Developer for GDG BBSR events."
+    ],
+    "oldresponsibilities": [
+      "Active community member.",
+      "Participated in past GDG BBSR and GDG Cloud BBSR events."
+    ]
+  },
+  {
     "position": "AWS Educate Student",
     "company": "AWS Educate Student Community India",
     "duration": "Jul 2021 - May 2022 ",
@@ -35,22 +66,6 @@ const data = [
     "duration": "Oct 2021 - Apr 2022 ",
     "responsibilities": [
       "Campus Ambassador of Dell Technologies."
-    ]
-  },
-  {
-    "position": "Core Techno-Management Member",
-    "oldposition": "Community Member",
-    "company": "GDG Cloud Bhubaneswar",
-    "duration": "Jul 2023 - Present",
-    "oldduration": "Nov 2021 - Jul 2023",
-    "responsibilities": [
-      "Developed GDG BBSR Website and Devfest 2023 website.",
-      "Serving as a Core Management Member.",
-      "Full Stack Web Developer for GDG BBSR events."
-    ],
-    "oldresponsibilities": [
-      "Active community member.",
-      "Participated in all GDG events."
     ]
   },
   {
