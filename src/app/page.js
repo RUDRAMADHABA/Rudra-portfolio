@@ -150,7 +150,7 @@ const link4 = ()=>{
       transition={{ ...spring, duration: 1 }}
     >
       <Avatar
-      src="/Rudra-image.jpg"
+      src="/Rudra-AWS.jpeg"
         sx={{
           borderRadius: '57% 43% 61% 39% / 64% 75% 25% 36% ',
           background: 'linear-gradient(to right, #ffa84b, #b16cea) !important',
